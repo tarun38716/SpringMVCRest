@@ -10,7 +10,7 @@ import com.websystique.springmvc.model.User;
 
 public class SpringRestTestClient {
 
-	public static final String REST_SERVICE_URI = "http://localhost:8080/Spring4MVCCRUDRestService";
+	public static final String REST_SERVICE_URI = "http://localhost:8080/Spring4MVCCRUDRestService/";
 	
 	/* GET */
 	@SuppressWarnings("unchecked")
